@@ -23,8 +23,8 @@ parser.add_argument("a", type=int, help="Part")
 args = parser.parse_args()
 
 # **1️⃣ Konfigurasi Akun**
-USERNAME = "wisnuandrean13@gmail.com"
-PASSWORD = "musrenbangdki"
+USERNAME = "username"
+PASSWORD = "pasword"
 
 # **2️⃣ Setup WebDriver**
 options = webdriver.ChromeOptions()
