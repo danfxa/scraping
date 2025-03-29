@@ -9,8 +9,8 @@ import csv
 import time
 
 # **1️⃣ Konfigurasi Akun**
-USERNAME = "wisnuandrean13@gmail.com"
-PASSWORD = "musrenbangdki"
+USERNAME = "email_account"
+PASSWORD = "pasword"
 
 # **2️⃣ Setup WebDriver**
 options = webdriver.ChromeOptions()
