@@ -18,8 +18,8 @@ parser.add_argument("end",type = int, help = "akhir")
 args = parser.parse_args()
 
 # **Konfigurasi Akun**
-USERNAME = "golkar.dadiyono"
-PASSWORD = "dkijakartakosong123"
+USERNAME = "account"
+PASSWORD = "pasword"
 
 # **Setup WebDriver**
 options = webdriver.ChromeOptions()
